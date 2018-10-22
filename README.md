@@ -47,7 +47,7 @@ In general,
 - `-cc`: e.g., `test_data/geo/US_BY_STATE_1.json` 
 ```bash
 # Streaming API: get tweets within geo boundries defined in -cc test_data/geo/US_BY_STATE_1.json
-python twitter_streamer.py -c ../twittertracker-config/config_i0mf0rmer02.json -o /mnt/data2/twitter/US_BY_STATE -cmd locations -cc test_data/geo/US_BY_STATE_1.json
+python twitter_streamer.py -c ./config.json -o /mnt/data2/twitter/US_BY_STATE -cmd locations -cc test_data/geo/US_BY_STATE_1.json
 
 ```
 
