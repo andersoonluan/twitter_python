@@ -3,7 +3,7 @@
 
 # Instalação
 
-    git clone git://github.com/andersoonluan/twitter_data.git
+    git clone git://github.com/andersoonluan/twitter_python.git
     
 ## Dependencias
 - [Twython](https://github.com/ryanmcgrath/twython)
